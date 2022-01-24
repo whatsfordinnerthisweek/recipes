@@ -1,4 +1,4 @@
-## Navivation
+## Navigation
 
 - [Nacho Fries](https://whatsfordinnerthisweek.github.io/recipes/nacho-fries)
 
