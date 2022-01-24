@@ -1,5 +1,7 @@
 # Nacho Fries
 
+[All Recipes](https://whatsfordinnerthisweek.github.io/recipes/)
+
 ## Ingredients
 
 - 1 lb frozen crinkle cut french fries
