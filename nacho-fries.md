@@ -1,5 +1,7 @@
 # Nacho Fries
 
+[All Recipes](https://whatsfordinnerthisweek.github.io/recipes/)
+
 ## Ingredients
 
 - 1 lb frozen crinkle cut french fries
@@ -24,3 +26,5 @@ Meanwhile, cook the ground beef and onion (add the peppers as well if you prefer
 When fries are crispy, top with some of the cheese, then beef mixture, and red peppers. Bake until cheese is melted, about 5 minutes.		
 		
 Remove from the oven and sprinkle on green onions and jalapeno (if using)
+
+## Pictures
