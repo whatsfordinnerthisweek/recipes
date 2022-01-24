@@ -1,6 +1,6 @@
-## Navication
+## Navivation
 
-- [Nacho Fries](https://whatsfordinnerthisweek.github.io/recipes/nacho-fries/)
+- [Nacho Fries](https://whatsfordinnerthisweek.github.io/recipes/nacho-fries)
 
 ## Welcome to GitHub Pages
 
